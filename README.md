@@ -40,3 +40,7 @@ https://www.tinkercad.com/things/fus4LFbUrWU-c-project
 > Note: Due to Tinkercad platform restrictions, login is required to view the simulation.
 
 ## Project Structure
+
+## Circuit Diagram
+![Circuit Diagram](images/circuit.png)
+
